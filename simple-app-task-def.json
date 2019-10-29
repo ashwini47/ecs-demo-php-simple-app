@@ -19,7 +19,7 @@
             "mountPoints": [],
             "entryPoint": null,
             "essential": true
-        },
+        }
         
             "essential": false
         }
