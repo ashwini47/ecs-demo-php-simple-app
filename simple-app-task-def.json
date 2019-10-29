@@ -4,7 +4,7 @@
 	"networkMode": "bridge",
 	"containerDefinitions": [{
 			"environment": [],
-			"name": "simple-app",
+			"name": "tetranoodal-app",
 			"image": "699439103541.dkr.ecr.us-east-1.amazonaws.com/tetranoodle:latest",
 			"cpu": 10,
 			"memory": 500,
