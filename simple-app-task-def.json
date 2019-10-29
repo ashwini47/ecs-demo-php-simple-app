@@ -1,6 +1,7 @@
 {
 	"family": "web-sample-app",
 	"volumes": [],
+	"networkMode": "bridge",
 	"containerDefinitions": [{
 			"environment": [],
 			"name": "simple-app",
