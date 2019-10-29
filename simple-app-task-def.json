@@ -10,7 +10,7 @@
         {
             "environment": [],
             "name": "simple-app",
-            "image": "amazon/amazon-ecs-sample",
+            "image": "699439103541.dkr.ecr.us-east-1.amazonaws.com/tetranoodle:latest",
             "cpu": 10,
             "memory": 500,
             "portMappings": [
