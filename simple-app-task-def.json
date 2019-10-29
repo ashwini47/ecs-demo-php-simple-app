@@ -6,7 +6,7 @@
 			"environment": [],
 			"name": "tetranoodal-app",
 			"image": "699439103541.dkr.ecr.us-east-1.amazonaws.com/tetranoodle:latest",
-			"cpu": 10,
+			"cpu": 1,
 			"memory": 500,
 			"portMappings": [{
 				"containerPort": 80,
