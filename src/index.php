@@ -15,7 +15,9 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Simple hello 126</h1>
+                <h1>Simple hello</h1><p>
+                 <h3>Build Number %BUILD_NUMBER% </h3><p>
+                
                 <p>
                 <h2>Congratulations PHP </h2>
                 <p>Your PHP application is now running on a container in Amazon ECS.</p>
