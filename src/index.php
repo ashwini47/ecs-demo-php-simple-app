@@ -16,7 +16,7 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>Simple hello</h1><p>
-                 <h3>Build Number %BUILD_NUMBER% </h3><p>
+                 <h5>Build Number = %BUILD_NUMBER% </h5><p>
                 
                 <p>
                 <h2>Congratulations PHP </h2>
