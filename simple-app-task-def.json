@@ -5,7 +5,7 @@
 	"containerDefinitions": [{
 			"environment": [],
 			"name": "tetranoodal-app",
-			"image": "699439103541.dkr.ecr.us-east-1.amazonaws.com/tetranoodle:{BUILD_NUMBER}",
+			"image": "699439103541.dkr.ecr.us-east-1.amazonaws.com/tetranoodle:${BUILD_NUMBER}",
 			"cpu": 1,
 			"memory": 500,
 			"portMappings": [{
